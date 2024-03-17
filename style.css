@@ -10,7 +10,7 @@ canvas {
 body {
   overflow-x: hidden; /* Disables horizontal overflow */
   overflow-y: hidden; /* Disables vertical overflow */
-  background-color: #034f84;
+  background-color:  #50394c;
 }
 
 #video-container {
